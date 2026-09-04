@@ -1,4 +1,4 @@
-# AI Finance Controller — Reconciliation Engine
+# AI Finance Controller | Reconciliation Engine
 
 **Track 04: Multi-Source Financial Reconciliation**
 
